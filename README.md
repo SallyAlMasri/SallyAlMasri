@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @SallyAlMasri
-- 👀 I’m interested in books
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in books and coding
+- 🌱 I'm a fresh graduate in Computer Scienc
 
 <!---
 SallyAlMasri/SallyAlMasri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
